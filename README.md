@@ -14,8 +14,7 @@ I've been learning to code for 5 years. I started with Python, but have really f
 - 💡 I’m  always `learning new things`.
 - ✉️  You can contact me at [fusethnd@gmail.com](mailto:fusethnd@gmail.com)
 
-> Technology advances every day. So I must never stop learning.
-
+> We don't just make things that are smaller, we make things that are better.
 ## <img height="35" src="https://cdn3.emoji.gg/emojis/7457-pixel-bear-study.gif"> Skills
 
 ### 👨‍💻 Programming Languages
