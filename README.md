@@ -9,12 +9,11 @@ Hi, There ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 I've been learning to code for 5 years. I started with Python, but have really found a passion for fullstack development or Mobile Development.
 - 🌍  I'm based in `Bangkok, Thailand.`
 - 🌱 I am a `Junior` at [Faculty of Computer Engineering](https://ece.engr.tu.ac.th/) at [Thammasat University](https://tu.ac.th/).
-- 🔭 I’m currently working on `Personal Service`
-- 🖥️ I love using Software as a solution for every `Problem`.
-- 💡 I’m  always `learning new things`.
+- 🖥️ I love creating Software to make people live `Easier`.
+- 💡 I’m always `find some new passion`.
 - ✉️  You can contact me at [fusethnd@gmail.com](mailto:fusethnd@gmail.com)
 
-> Technology advances every day. So I must never stop learning.
+> I don’t just make things that are smaller, I make things that are better.
 
 ## <img height="35" src="https://cdn3.emoji.gg/emojis/7457-pixel-bear-study.gif"> Skills
 
