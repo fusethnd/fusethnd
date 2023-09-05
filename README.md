@@ -12,13 +12,9 @@ I've been learning to code for 5 years. I started with Python, but have really f
 - 🖥️ I love creating Software to make people live `Easier`.
 - 💡 I’m always `find some new passion`.
 - ✉️  You can contact me at [fusethnd@gmail.com](mailto:fusethnd@gmail.com)
-
-<<<<<<< HEAD
+  
 > I don’t just make things that are smaller, I make things that are better.
 
-=======
-> We don't just make things that are smaller, we make things that are better.
->>>>>>> c03c4c5c100477ca22a652674e465cc0047ee3e9
 ## <img height="35" src="https://cdn3.emoji.gg/emojis/7457-pixel-bear-study.gif"> Skills
 
 ### 👨‍💻 Programming Languages
