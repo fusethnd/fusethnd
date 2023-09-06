@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Nunito:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Nunito:wght@600&family=Rubik+Iso&display=swap');
+                
+
+/* All Section */
+* {
+    /* Clear margin and padding */
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%; /* Fixed Height using Scroll */
+    overflow: auto;
+    color: #ffffff;
+}
+
+body {
+    background-color: #182527;
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Nunito', sans-serif;                         
+}
+
+main {
+    height: 100;
+    display: grid; /* Work on grid */
+    grid-template-columns: minmax(60px, 1fr) repeat(6, minmax(50px,190px))
+    minmax(60px, 1fr);   
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    color: #20cd8d;
+    font-size: 50px;
+}
+        
+.p {
+}
+
+
+.contact {
+    text-align: center;
+    color: #20cd8d;
+}
+
+.icons {
+    text-align: center;
+    display: flex;
+}
+
+.icon {
+    margin-right: 40px;
+}
+
+.icon img {
+    width: 50px;
+    height: 50px;
+}
