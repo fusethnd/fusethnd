@@ -4,161 +4,96 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fuse's Profile</title>
+    <link rel="icon" href="icons/favicon.ico">
+    <!-- Import Nunito Font -->
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Nunito:wght@600&display=swap');
         /* CSS Comments */
-        /* CSS Syntax => Selector { property: value; } */
+        /* CSS Syntax   => Selector { property: value; } */
+        /*              => Who { What: How; } */
         /* (1) Tag Selector */
-        /* (2) Class Selector */
-        /* (3) ID Selector */
+        /*
+        /* All class using same dataset */
+
+        /* All Section */
+        *{
+            /* Clear margin and padding */
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        html, body {
+            height: 150%; /* Fixed Height using Scroll */
+            overflow: auto;
+        }
+
+        body {
+            background-color: #182527;
+        }
+
+        main {
+            height: 100;
+            display: grid; /* Work on grid */
+            grid-template-columns: minmax(60px, 1fr) repeat(6, minmax(50px,190px))
+            minmax(60px, 1fr);   
+        }
+
+        header {
+            grid-column: 1 / span 7; /* header start 2nd col and others last column */
+            margin-left: 5%;
+        }
+
+        @media only screen and (max-width:850px) {
+            .info {
+                grid-column: 2 / span 7;
+            }    
+            .icons {
+                flex-direction: column;
+            }
+            .content_font1, .content_font2 {
+                font-size: 1.75rem;
+            }
+            .features {
+                flex-direction: column;
+            }
+        }
     </style>
 </head>
 <body>
-    <h1>Hi, There! I'm Thanadon Boontawee</h1>
-    <img src="images/fuse-coverv2.gif" alt="Cover">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-    <h3 img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px> About me</h3>
+    <img src="images/fuse-coverv2.gif" alt="Cover" width="100%">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br><br>
+    
+    <h1>Hi, There!👋🏻 I'm Thanadon Boontawee</h1>
+    <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px height = 400px>
+    <h3> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px> About me </h3>
+    <p>I've been learning to code for 5 years. I started with Python,
+        but have really found a passion for fullstack development or Mobile Development.
+    </p>
+    <p> - 🌍 I'm based in Bangkok, Thailand.</p>
+    <p> - 🌱 I am a Junior at Faculty of Computer Engineering at Thammasat University.</p>
+    <p> - 🖥️ I love creating Software to make people live Easier.</p>
+    <p> - 💡 I’m always find some new passion.</p>
+    <p> - ✉️ You can contact me at fusethnd@gmail.com.</p>
+
+    <h4>I don’t just make things that are smaller, I make things that are better.</h4>
+      
+    <h2>Contact</h2>
+    
+        <section class="contact">
+            <div class="icons">
+                <div class="contact">
+                    <img src="images/instagram.svg" alt="instagram">
+                </div>
+                <div class="icon">
+                    <img src="images/facebook.svg" alt="facebook">
+                </div>
+                <div class="icon">
+                    <img src="images/gmail.svg" alt="gmail">
+                </div>
+                <div class="icon">
+                    <img src="icons/github.png" alt="github">
+                </div>
+            </div>
+        </section>
 </body>
 </html>
-
-<!--
-==================================================================================
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px> About me
-  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width = 180px height = 200px/>
-
-I've been learning to code for 5 years. I started with Python, but have really found a passion for fullstack development or Mobile Development.
-- 🌍  I'm based in `Bangkok, Thailand.`
-- 🌱 I am a `Junior` at [Faculty of Computer Engineering](https://ece.engr.tu.ac.th/) at [Thammasat University](https://tu.ac.th/).
-- 🖥️ I love creating Software to make people live `Easier`.
-- 💡 I’m always `find some new passion`.
-- ✉️  You can contact me at [fusethnd@gmail.com](mailto:fusethnd@gmail.com)
-  
-> I don’t just make things that are smaller, I make things that are better.
-
-## <img height="35" src="https://cdn3.emoji.gg/emojis/7457-pixel-bear-study.gif"> Skills
-
-### 👨‍💻 Programming Languages
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python"/>
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5" /></a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="CSS3" /></a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" /></a>
-      <br>JavaScript</br>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="TypeScript" /></a>
-      <br>TypeScript</br>
-    </td>
-    <td align="center" width="96">
-      <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="cpp" /></a>
-      <br>C++</br>
-    </td>
-    </tr>
-</table>
-
-### 💻 Tools
-
-<table>
-    <tr>
-        <td align="center" width="96">
-      <a href="https://code.visualstudio.com/" title="VS-Code"><img src="icons/vscode.png" width="48" height="48" alt="vscode"/></a>
-      <br>VS Code
-        </td>
-        <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" width="48" height="48" alt="git"/> </a>
-      <br>Git
-        </td>
-        <td align="center" width="96">
-      <a href="https://github.com/" title="GitHub"><img src="icons/github.png" width="48" height="48" alt="github"/>
-      </a>
-      <br>GitHub
-        </td>
-    </tr>
-</table>
-
-
-### 👨🏽‍💻 Others
-<table>
-    <tr>
-        <td align="center" width="96">
-      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-        </td>
-        <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-        </td>
-        <td align="center" width="96">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="48" height="48" alt="Figma" /></a>
-      </a>
-      <br>Figma
-        </td>
-    </tr>
-</table>
-
-## <img height="35" src="https://cdn3.emoji.gg/emojis/7483-peepo-rich.gif"> Github Stats
-
-## <img height="35" src="https://cdn3.emoji.gg/emojis/6793-pixel-cat.gif"> Contact
-<p align="left">
-
-[![image](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/fuse.thnd)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/useafterf/)
-[![image](https://img.shields.io/badge/Linkin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fusethnd/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fusethnd@gmail.com)
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
-
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
-
--->
