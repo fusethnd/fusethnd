@@ -100,8 +100,6 @@ I've been learning to code for 5 years. I started with Python, but have really f
     </tr>
 </table>
 
-## <img height="35" src="https://cdn3.emoji.gg/emojis/7483-peepo-rich.gif"> Github Stats
-
 ## <img height="35" src="https://cdn3.emoji.gg/emojis/6793-pixel-cat.gif"> Contact
 <p align="left">
 
