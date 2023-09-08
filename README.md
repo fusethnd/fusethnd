@@ -105,6 +105,7 @@ I've been learning to code for 5 years. I started with Python, but have really f
 
 [![image](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/fuse.thnd)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/useafterf/)
+[![image](https://img.shields.io/badge/tiktok-D14836?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@useafterf)
 [![image](https://img.shields.io/badge/Linkin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fusethnd/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fusethnd@gmail.com)
 </p>
