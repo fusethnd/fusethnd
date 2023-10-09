@@ -15,8 +15,6 @@ I've been learning to code for 5 years. I started with Python, but have really f
   
 > I don’t just make things that are smaller, I make things that are better.
 
-
-
 ![FuseThnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=fusethnd&show_icons=true&theme=tokyonight)
 
 ## <img height="35" src="https://cdn3.emoji.gg/emojis/7457-pixel-bear-study.gif"> Skills
