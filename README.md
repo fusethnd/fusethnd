@@ -15,7 +15,21 @@ I've been learning to code for 5 years. I started with Python, but have really f
   
 > I don’t just make things that are smaller, I make things that are better.
 
+<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Badges
 ![FuseThnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=fusethnd&show_icons=true&theme=tokyonight)
+
+<a href="http://www.github.com/"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="'s GitHub stats" /></a>
+
+<a href="http://www.github.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com//queuepid" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=queuepid&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ## <img height="35" src="https://cdn3.emoji.gg/emojis/7457-pixel-bear-study.gif"> Skills
 
@@ -36,12 +50,8 @@ I've been learning to code for 5 years. I started with Python, but have really f
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5" /></a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="CSS3" /></a>
-      <br>CSS3
+      <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="48" height="48" alt="Swift" /></a>
+      <br>Swift
     </td>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" /></a>
@@ -56,6 +66,41 @@ I've been learning to code for 5 years. I started with Python, but have really f
       <br>C++</br>
     </td>
     </tr>
+</table>
+
+### 👨‍💻 Frontend
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5" /></a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="CSS3" /></a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+        </td>
+    </td>
+    </tr>
+</table>
+
+### 👨‍💻 Backend and Database
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
 </table>
 
 ### 💻 Tools
@@ -75,6 +120,10 @@ I've been learning to code for 5 years. I started with Python, but have really f
       </a>
       <br>GitHub
         </td>
+        <td align="center" width="96">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="48" height="48" alt="Figma" /></a>
+      <br>Figma
+        </td>
     </tr>
 </table>
 
@@ -83,21 +132,12 @@ I've been learning to code for 5 years. I started with Python, but have really f
 <table>
     <tr>
         <td align="center" width="96">
-      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="48" height="48" alt="Django" /></a>
+      <br>django
         </td>
         <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-        </td>
-        <td align="center" width="96">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="48" height="48" alt="Figma" /></a>
-      </a>
-      <br>Figma
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="48" height="48" alt="Docker" /></a>
+      <br>Docker
         </td>
     </tr>
 </table>
