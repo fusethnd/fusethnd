@@ -15,9 +15,6 @@ I've been learning to code for 5 years. I started with Python, but have really f
   
 > I don’t just make things that are smaller, I make things that are better.
 
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Badges
 ![FuseThnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=fusethnd&show_icons=true&theme=tokyonight)
 
